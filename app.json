@@ -3,8 +3,26 @@
     "name": "NetFeliz",
     "description": "Aplicativo para o NetFeliz",
     "slug": "NetFeliz",
+    "orientation": "portrait",
     "privacy": "public",
     "sdkVersion": "48.0.0",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#ffffff"
+      }
+    }
   }
 }
