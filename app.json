@@ -1,5 +1,10 @@
 {
   "expo": {
-    "sdkVersion": "27.0.0"
+    "name": "NetFeliz",
+    "description": "Aplicativo para o NetFeliz",
+    "slug": "NetFeliz",
+    "privacy": "public",
+    "sdkVersion": "48.0.0",
+    "version": "1.0.0"
   }
 }
