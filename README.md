@@ -10,10 +10,12 @@ Projeto criad com [Create React Native App](https://github.com/react-community/c
 
 ## Funcionalidades
 
-- Temas dark e light
-- Preview em tempo real
-- Modo tela cheia
-- Multiplataforma
+[x] - Lista de filmes
+[x] - Detalhes de filmes
+[] - Reprodução de video
+[] - Uso de gerenciamento de estados (redux, recoil)
+[] - Testes unitario
+[] - Testes de integração
 
 ## Stack utilizada
 
