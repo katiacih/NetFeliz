@@ -6,7 +6,7 @@ Projeto criad com [Create React Native App](https://github.com/react-community/c
 
 ## Demonstração
 
-Insira um gif ou um link de alguma demonstração
+Insira um gif ou um link de alguma demonstração.
 
 
 ## Funcionalidades
