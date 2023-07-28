@@ -1,35 +1,33 @@
 # Overview
+
 Projeto clone do netflix
 
 Projeto criad com [Create React Native App](https://github.com/react-community/create-react-native-app)
 
-
 ## Demonstração
 
-Insira um gif ou um link de alguma demonstração.
-
+![gif](https://github.com/katiacih/NetFeliz/blob/main/demo.gif)
 
 ## Funcionalidades
 
-- Temas dark e light
-- Preview em tempo real
-- Modo tela cheia
-- Multiplataforma
-
+[x] - Lista de filmes
+[x] - Detalhes de filmes
+[] - Reprodução de video
+[] - Uso de gerenciamento de estados (redux, recoil)
+[] - Testes unitario
+[] - Testes de integração
 
 ## Stack utilizada
+
 **React Native**
 
 O [React Native](https://reactnative.dev/) traz a estrutura de IU declarativa do React para iOS e Android. Com o React Native, você usa controles de interface do usuário nativos e tem acesso total à plataforma nativa.
 
 O React Native é desenvolvido e suportado por muitas empresas e colaboradores principais individuais. Saiba mais em nossa visão geral do ecossistema.
 
-
-
 **Expo**
 
 [Expo](https://expo.dev/) é uma plataforma de código aberto para criar aplicativos nativos universais que rodam no Android, iOS e na web. Ele inclui um tempo de execução universal e bibliotecas que permitem criar aplicativos nativos escrevendo React e JavaScript.
-
 
 ## Desenvolvedor
 
@@ -38,25 +36,25 @@ O React Native é desenvolvido e suportado por muitas empresas e colaboradores p
 ### Instalar dependencias
 
 Your project may not work correctly until you install the correct versions of the packages.
-Fix with: 
+Fix with:
 
-```npx expo install --fix```
- 
+`npx expo install --fix`
 
 Instale as seguintes bibliotecas para rodar a aplicação mobile com Expo:
-```npm install```
+`npm install`
 
-ou 
-``` yarn i```
+ou
+` yarn i`
 
 ### Para executar
+
 Para executar em modo de desenvolvimento.
 
-Abra o aplicativo [Expo app](https://expo.io) em seu telefone e utilizando o terminal 
+Abra o aplicativo [Expo app](https://expo.io) em seu telefone e utilizando o terminal
 
-Algumas vezes pode ser necessário resetar ou limpar o cache do pacote React Native e para isso passe o parametro  `--reset-cache` ao script para iniciar
+Algumas vezes pode ser necessário resetar ou limpar o cache do pacote React Native e para isso passe o parametro `--reset-cache` ao script para iniciar
 :
-Preferecialmente use 
+Preferecialmente use
 expo start
 
 ```
@@ -68,8 +66,7 @@ yarn start --reset-cache
 ##### Usando Android Studio's `adb`
 
 Ao executar no terminal
-Abra o Genymotion e navegue até `Settings -> ADB`. Selecione  “Use custom Android SDK tools” e atualize o com seu [Android SDK directory](https://stackoverflow.com/questions/25176594/android-sdk-location).
-
+Abra o Genymotion e navegue até `Settings -> ADB`. Selecione “Use custom Android SDK tools” e atualize o com seu [Android SDK directory](https://stackoverflow.com/questions/25176594/android-sdk-location).
 
 #### Executando no IOS
 
@@ -77,7 +74,7 @@ Abra o Genymotion e navegue até `Settings -> ADB`. Selecione  “Use custom And
 
 Ao executar `npm start`, pode escolher executar em um IOS.
 
-####  Executando no android
+#### Executando no android
 
 `npm run android`
 
@@ -88,4 +85,3 @@ Recomenta-se tambem a instalação do Genymotion no seu emulador android.
 ## Autores
 
 - [@katiacih](https://www.github.com/katiaich)
-
