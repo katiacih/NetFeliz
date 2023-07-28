@@ -2,7 +2,7 @@
 
 Projeto clone do netflix
 
-Projeto criad com [Create React Native App](https://github.com/react-community/create-react-native-app)
+Projeto criado com [Create React Native App](https://github.com/react-community/create-react-native-app)
 
 ## Demonstração
 
@@ -10,12 +10,12 @@ Projeto criad com [Create React Native App](https://github.com/react-community/c
 
 ## Funcionalidades
 
-[x] - Lista de filmes
-[x] - Detalhes de filmes
-[] - Reprodução de video
-[] - Uso de gerenciamento de estados (redux, recoil)
-[] - Testes unitario
-[] - Testes de integração
+[x] - Lista de filmes  
+[x] - Detalhes de filmes  
+[] - Reprodução de video  
+[] - Uso de gerenciamento de estados (redux, recoil)   
+[] - Testes unitario   
+[] - Testes de integração   
 
 ## Stack utilizada
 
